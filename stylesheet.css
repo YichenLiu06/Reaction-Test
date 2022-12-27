@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+#Prompt { 
+    display : flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 50px;
+    text-align:center;
+}
+
+#Timer {
+    font-size: 32px;
+}
